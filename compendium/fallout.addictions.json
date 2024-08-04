@@ -1,0 +1,57 @@
+{
+  "label": "Addictions",
+  "mapping": {
+    "name": "name",
+    "description": "system.description"
+  },
+  "entries": {
+    "Buffout": {
+      "name": "Buffout",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>FOR</strong> et d&rsquo;<strong>END</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet d&rsquo;un type de Buffout (Buffout, Buffjet ou Bufftats).</p>"
+    },
+    "Calmex": {
+      "name": "Calmex",
+      "description": "<p>Vous subissez des complications sur vos tests d&rsquo;<strong>AGI</strong> sur un r&eacute;sultat de 18 ou plus quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet du Calmex.</p>"
+    },
+    "Daddy-O": {
+      "name": "Daddy-O",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>PER</strong> et d&rsquo;<strong>INT</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet du Daddy-O.</p>"
+    },
+    "Day Tripper": {
+      "name": "Daytripper",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>CHR</strong> et de <strong>CHA</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet du Daytripper.</p>"
+    },
+    "Fury": {
+      "name": "Fureur",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>FOR</strong> et de <strong>PER</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet de la Fureur.</p>"
+    },
+    "Jet": {
+      "name": "Jet",
+      "description": "<p>La difficult&eacute; de tous vos tests d&rsquo;<strong>AGI</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet d&rsquo;un type de Jet (le Jet ou le Jet Fuel; l&rsquo;Ultra Jet a un effet de d&eacute;pendance diff&eacute;rent).</p>"
+    },
+    "Med-X": {
+      "name": "Med-X",
+      "description": "<p>La difficult&eacute; de tous vos tests d&rsquo;<strong>AGI</strong> augmente de +1 et vous subissez +1 @fos[DC] de d&eacute;g&acirc;ts suppl&eacute;mentaires sur toutes les attaques balistiques quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet du Med-X.</p>"
+    },
+    "Mentat": {
+      "name": "Mentats",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>CHR</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet d&rsquo;un type de Mentats (les Mentats ordinaires ou les versions fruits rouges, orange ou raisin).</p>"
+    },
+    "Overdrive": {
+      "name": "Overdrive",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>FOR</strong> et d&rsquo;<strong>AGI</strong> augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet de l&rsquo;Overdrive.</p>"
+    },
+    "Psycho": {
+      "name": "Psycho",
+      "description": "<p>La difficult&eacute; de tous vos tests de <strong>FOR</strong> augmente de +1 et vous subissez +1 @fos[DC] de d&eacute;g&acirc;ts sur toutes les attaques balistiques quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet d&rsquo;un type de Psycho (le Psycho ordinaire, le Psycho Jet, le Psychobuff ou les Psychotats)</p>"
+    },
+    "Ultra Jet": {
+      "name": "Ultra Jet",
+      "description": "<p>La difficult&eacute; de tous vos tests d&rsquo;<strong>AGI</strong> augmente de +1 et, si vous r&eacute;ussissez un test de comp&eacute;tence, vous g&eacute;n&eacute;rez 1 PA de moins (0 minimum) quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet de l&rsquo;Ultra Jet. Cette d&eacute;pendance est permanente et ne peut &ecirc;tre soign&eacute;e par aucun moyen connu.</p>"
+    },
+    "X-Cell": {
+      "name": "X-Cell",
+      "description": "<p>La difficult&eacute; de tous vos tests augmente de +1 quand vous n&rsquo;&ecirc;tes pas sous l&rsquo;effet du X-Cell.</p>"
+    }
+  }
+}
