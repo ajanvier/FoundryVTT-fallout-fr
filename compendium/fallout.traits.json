@@ -1,0 +1,49 @@
+{
+  "label": "",
+  "mapping": {
+    "name": "name",
+    "description": "system.description"
+  },
+  "entries": {
+    "Educated": {
+      "name": "Éducation",
+      "description": "<p>Vous poss&eacute;dez un atout personnel suppl&eacute;mentaire.</p>\n<p>Lorsque vous &eacute;chouez &agrave; un test de comp&eacute;tence autre qu&rsquo;un atout personnel, le MJ gagne 1 PA.</p>"
+    },
+    "Fast Shot": {
+      "name": "Tir rapide",
+      "description": "<p>Si vous entreprenez une seconde action capitale au combat afin d&rsquo;effectuer une attaque &agrave; distance, il ne vous en co&ucirc;te que 1 PA et non 2.</p>\n<p>Vous ne tirez aucun b&eacute;n&eacute;fice de l&rsquo;action mineure Viser : vous &ecirc;tes trop impatient.</p>"
+    },
+    "Forced Evolution": {
+      "name": "Évolution forcée",
+      "description": "<p>Votre Force et votre Endurance augmentent de 2 et la valeur maximale de ces attributs est port&eacute;e &agrave; 12. En revanche, votre Intelligence et votre Charisme ne peuvent jamais &ecirc;tre sup&eacute;rieurs &agrave; 6. Chacune de vos comp&eacute;tences est limit&eacute;e au rang 4. Vous &ecirc;tes compl&egrave;tement immunis&eacute; aux d&eacute;g&acirc;ts de radiation et de poison.</p>\n<p>Vous mesurez plus de 2,10 m et votre corps est &eacute;pais et musculeux. Votre peau est verte, jaune ou gris&acirc;tre, quelle qu&rsquo;ait &eacute;t&eacute; sa couleur d&rsquo;origine. Vous ne semblez pas vieillir, mais vous &ecirc;tes st&eacute;rile. Les seules armures que vous pouvez porter doivent &ecirc;tre sp&eacute;cialement con&ccedil;ues pour les super mutants.</p>"
+    },
+    "Gifted": {
+      "name": "Doué",
+      "description": "<p>Choisissez deux attributs S.P.E.C.I.A.L. : augmentez leur valeur de +1.</p>\n<p>Votre nombre de points de chance maximum est inf&eacute;rieur de 1 &agrave; la valeur de votre attribut de Chance.</p>"
+    },
+    "Heavy Handed": {
+      "name": "Main lourde",
+      "description": "<p>Votre bonus de d&eacute;g&acirc;ts au corps &agrave; corps augmente de +1 @fos[DC]</p>\n<p>Vos attaques &agrave; mains nues et au corps &agrave; corps d&eacute;clenchent une complication sur un 19 ou un 20, et non sur un 20.</p>"
+    },
+    "Mister Handy Robot": {
+      "name": "Robot Mister Handy",
+      "description": "<p>Vous &ecirc;tes dot&eacute; d&rsquo;une vision &agrave; 360&deg; et de syst&egrave;mes sensoriels am&eacute;lior&eacute;s qui vous permettent de d&eacute;tecter des odeurs, des produits chimiques et des radiations, ce qui se traduit par une difficult&eacute; r&eacute;duite de 1 pour tous les tests de Perception bas&eacute;s sur la vue et l&rsquo;odorat. Vous &ecirc;tes immunis&eacute; aux d&eacute;g&acirc;ts de radiation et de poison, mais ne pouvez pas utiliser de drogues. Vous ne retirez aucun b&eacute;n&eacute;fice de la nourriture, des boissons ou du repos. Vous vous d&eacute;placez par propulsion, en flottant au-dessus du sol, et n&rsquo;&ecirc;tes donc pas affect&eacute; par le terrain difficile ou les obstacles. Votre charge maximale est de 75 kg et elle ne peut pas &ecirc;tre accrue par votre Force ou vos aptitudes. N&eacute;anmoins, vous pouvez l&rsquo;augmenter gr&acirc;ce &agrave; une armure modifi&eacute;e. Vos blessures ne gu&eacute;rissent pas et vous ne r&eacute;cup&eacute;rez aucun point de vie si personne ne vous r&eacute;pare (cf. Soigner les robots, page 34).</p>\n<p>Vous ne pouvez pas manipuler le monde qui vous entoure comme les humains. Au lieu de deux mains, vous disposez de trois accessoires pr&eacute;sent&eacute;s dans la table, en fonction du pack d&rsquo;&eacute;quipement que vous choisissez. Si vous optez pour un bras dot&eacute; d&rsquo;une arme, vous recevez &eacute;galement 20 munitions pour cette arme.</p>"
+    },
+    "Necrotic Post-Human": {
+      "name": "Post-humain nécrotique",
+      "description": "<p>Vous &ecirc;tes immunis&eacute; aux d&eacute;g&acirc;ts de radiation. Au contraire, ils vous soignent : vous r&eacute;cup&eacute;rez 1 PV par tranche de 3 points de d&eacute;g&acirc;ts de radiation qui vous sont inflig&eacute;s. Si vous vous reposez dans un environnement irradi&eacute;, vous pouvez relancer votre r&eacute;serve de d&eacute;s pour voir si vos blessures gu&eacute;rissent. De plus, Survie devient un atout personnel : vous gagnez donc 2 rangs dans cette comp&eacute;tence.</p>\n<p>Vous vieillissez bien plus lentement qu&rsquo;un humain non irradi&eacute; et vous &ecirc;tes probablement bien plus vieux que vos compagnons non mutants. Peut-&ecirc;tre avez-vous m&ecirc;me surv&eacute;cu &agrave; la Grande Guerre de 2077. N&eacute;anmoins, vous &ecirc;tes st&eacute;rile : comme dit le proverbe, &laquo; la premi&egrave;re g&eacute;n&eacute;ration de goules est la derni&egrave;re &raquo;. Vous pouvez conna&icirc;tre une discrimination de la part des &laquo; peaux-lisses &raquo; (les humains qui ne sont pas des goules), ce qui augmente la difficult&eacute; et la marge de complication des tests de Charisme, selon les croyances de votre interlocuteur.</p>"
+    },
+    "Small Frame": {
+      "name": "Gringalet",
+      "description": "<p>Vous pouvez relancer 1d20 lors de tout test d&rsquo;<strong>AGI</strong> bas&eacute; sur l&rsquo;&eacute;quilibre ou les contorsions</p>\n<p>Votre charge maximale est de 75 + (2,5 x <strong>FOR</strong>) kg et non de 75 + (5 x <strong>FOR</strong>) kg.</p>"
+    },
+    "The Chain that Binds": {
+      "name": "La Chaîne de Cohésion",
+      "description": "<p>Vous obtenez un atout personnel suppl&eacute;mentaire qui doit &ecirc;tre, au choix : Armes &agrave; &eacute;nergie, Science ou R&eacute;paration. Cet atout personnel d&eacute;bute au rang 2.</p>\n<p>En tant que membre de la Confr&eacute;rie de l&rsquo;Acier, vous &ecirc;tes tenu de respecter la cha&icirc;ne de commandement : la Cha&icirc;ne de Coh&eacute;sion. Vous devez suivre les ordres de vos sup&eacute;rieurs directs et vous &ecirc;tes responsables de vos subordonn&eacute;s. Si vous n&rsquo;accomplissez pas votre devoir, vous &ecirc;tes renvoy&eacute; de la Confr&eacute;rie et votre mat&eacute;riel technologique est r&eacute;cup&eacute;r&eacute;&hellip; par tous les moyens n&eacute;cessaires.</p>"
+    },
+    "Vault Kid": {
+      "name": "Né à l’Abri",
+      "description": "<p>Votre jeunesse saine aux mains de m&eacute;decins comp&eacute;tents et d&rsquo;auto-docs sophistiqu&eacute;s implique que vous r&eacute;duisez la difficult&eacute; de tous les tests d&rsquo;<strong>END</strong> destin&eacute;s &agrave; r&eacute;sister aux effets des maladies. De plus, le soin apport&eacute; &agrave; votre &eacute;ducation vous permet de b&eacute;n&eacute;ficier d&rsquo;un atout personnel suppl&eacute;mentaire au choix (qui commence donc au rang 2).</p>\n<p>Vous pouvez &eacute;galement d&eacute;cider avec le MJ du type d&rsquo;exp&eacute;riences qui a eu lieu dans votre Abri. Une fois par qu&ecirc;te, le MJ peut introduire une complication qui refl&egrave;te la nature de cette exp&eacute;rimentation, &agrave; laquelle vous avez particip&eacute; contre votre gr&eacute; ou en lien avec votre jeunesse pass&eacute;e en isolement et confinement dans votre Abri. Dans ce cas, vous regagnez imm&eacute;diatement un point de chance.</p>"
+    }
+  }
+}
