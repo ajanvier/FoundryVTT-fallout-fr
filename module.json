@@ -6,8 +6,7 @@
   "license": "LICENSE",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.302",
-    "maximum": "12"
+    "verified": "11.302"
   },
   "authors": [
     {
@@ -20,6 +19,10 @@
       "name": "LaCorbelle",
       "url": "https://github.com/lucascorbeaux",
       "discord": "lacorbelle"
+    },
+    {
+      "name": "Nawakrel",
+      "discord": "nawakrel"
     }
   ],
  "relationships": {
