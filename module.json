@@ -29,7 +29,11 @@
     "requires": [
       {
         "id": "babele",
-        "type": "module"
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.5.5",
+          "verified": "2.5.5"
+        }
       },
       {
         "id": "lib-wrapper",
@@ -50,7 +54,7 @@
       "path": "fr.json"
     }
   ],
-  "url": "https://github.com/YanKlInnomme/FoundryVTT-fallout-fr",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/ajanvier/FoundryVTT-fallout-fr",
+  "manifest": "https://raw.githubusercontent.com/ajanvier/FoundryVTT-fallout-fr/main/module.json",
+  "download": "https://github.com/ajanvier/FoundryVTT-fallout-fr/archive/refs/heads/main.zip"
 }
