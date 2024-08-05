@@ -1,0 +1,16 @@
+{
+	"label": "Tables aléatoires",
+	"entries": {
+		"Hit Locations": {
+			"name": "Dégâts localisés",
+			"results": {
+                "1-2": "Tête",
+                "3-8": "Torse",
+                "9-11": "Bras gauche",
+                "12-14":"Bras droit",
+                "15-17": "Jambe gauche",
+                "18-20": "Jambe droite"
+            }
+		}
+	}
+}
