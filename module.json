@@ -45,7 +45,6 @@
     ]
   },
   "esmodules": [
-    "javascript/override-carry-weight.js",
     "javascript/override-ui-notifications.js",
     "javascript/babele-register.js"
   ],
