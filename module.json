@@ -2,7 +2,7 @@
   "id": "fallout-fr",
   "title": "Fallout Traduction Française - Fallout French Translation",
   "description": "Module de traduction en langue française pour la version Fallout 2d20 de HappySteve sur Foundry VTT<br />French translation module for the Fallout 2d20 of HappySteve on Foundry VTT",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "11",
